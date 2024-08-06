@@ -1,5 +1,8 @@
 # Overview of the Basic Bot template
 
+Hi, Help, Anyother Message can be sent in bot
+Press F5 To run This Bot
+
 Examples of Microsoft Teams bots in everyday use include:
 
 - Bots that notify about build failures.
